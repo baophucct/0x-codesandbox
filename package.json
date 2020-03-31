@@ -12,7 +12,7 @@
         "@0x/web3-wrapper": "^6.0.2",
         "bloomer": "^0.6.5",
         "bulma": "^0.7.4",
-        "codesandbox-api": "^0.0.20",
+        "codesandbox-api": "^0.0.24",
         "ethereum-types": "^2.1.0",
         "lodash": "4.17.11",
         "react": "^16.8.3",

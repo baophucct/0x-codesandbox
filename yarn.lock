@@ -2251,9 +2251,10 @@ code-point-at@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
 
-codesandbox-api@^0.0.20:
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/codesandbox-api/-/codesandbox-api-0.0.20.tgz#174bcd76c9f31521175c6bceabc37da6b1fbc30b"
+codesandbox-api@^0.0.24:
+  version "0.0.24"
+  resolved "https://registry.yarnpkg.com/codesandbox-api/-/codesandbox-api-0.0.24.tgz#f0523c0a6f11a9be4bde3ef5f4657f74a992bbfa"
+  integrity sha512-apo40Pus8maNBOBJSjYMh2T5cnAZRGuZc0B12X6S8eNesaPJ2InWan71jlmgn2+d1m8e0a0zdP3cFBDY09c6iA==
 
 coinstring@^2.0.0:
   version "2.3.0"
