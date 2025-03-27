@@ -9,7 +9,7 @@
     "dependencies": {
         "0x.js": "^6.0.3",
         "@0x/abi-gen-wrappers": "^4.0.2",
-        "@0x/web3-wrapper": "^6.0.2",
+        "@0x/web3-wrapper": "^6.0.13",
         "bloomer": "^0.6.5",
         "bulma": "^0.7.4",
         "codesandbox-api": "^0.0.20",
