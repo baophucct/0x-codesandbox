@@ -13,7 +13,7 @@
         "bloomer": "^0.6.5",
         "bulma": "^0.7.4",
         "codesandbox-api": "^0.0.20",
-        "ethereum-types": "^2.1.0",
+        "ethereum-types": "^2.1.6",
         "lodash": "4.17.11",
         "react": "^16.8.3",
         "react-dom": "^16.8.3",
